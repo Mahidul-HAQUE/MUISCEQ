@@ -1,0 +1,19 @@
+# MATLAB
+*.asv
+*.m~
+*.mex*
+octave-workspace
+
+# Audio files (add your own)
+*.mp3
+*.wav
+*.flac
+*.ogg
+
+# Simulink autosave
+slprj/
+*.slxc
+
+# OS
+.DS_Store
+Thumbs.db
