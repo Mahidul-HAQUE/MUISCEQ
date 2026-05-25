@@ -164,7 +164,7 @@ The `PRMU.slxc` file is a compiled Simulink cache. To open it:
 
 ## Requirements
 
-- MATLAB R2020a or later
+- MATLAB R2024a or later
 - Signal Processing Toolbox (for `fir1`, `filtfilt`, `freqz`, `pwelch`)
 - Audio Toolbox (for `audioread`, `audiowrite`, `audioplayer`)
 - Simulink (for the `.slxc` / `.slx` model only)
